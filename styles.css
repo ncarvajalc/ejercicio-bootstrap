@@ -1,0 +1,23 @@
+.photoA {
+    background-color: rgb(25, 162, 181);
+}
+.photoB {
+    background-color: rgb(196, 106, 123);
+}
+.tmenu {
+    background-color: rgb(194, 145, 132);
+}
+.banner {
+    background-color: rgb(91, 73, 61);
+    height: 100px;
+
+}
+.footer {
+    background-color: rgb(91, 73, 61);
+}
+.side {
+    background-color: rgb(247, 154, 73);
+}
+.text-content {
+    height: 200px;
+}
